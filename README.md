@@ -15,3 +15,4 @@
 - Sugira melhorias via pull request  
 - Entre em contato para projetos colaborativos  
 
+<img align='right' src="[https://incluir-link-do-seu-avatar-aqui.png" width=](https://github.com/micapicolli/micapicolli/blob/main/octocat-1764956795539.png)"215">
