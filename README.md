@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Olá, eu sou Mica Picolli
 
-<!--
-**micapicolli/micapicolli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌍 Sobre mim
+- 💻 Desenvolvedor apaixonado por software livre e colaboração  
+- 🛠️ Contribuidor ativo em projetos open source (traduções, documentação e código)  
+- 🌱 Sempre aprendendo novas tecnologias e compartilhando conhecimento  
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias
+- Linguagens: JavaScript, Python, Go  
+- Frameworks: React, Flask  
+- Ferramentas: Git, GitHub Actions, Docker  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤝 Como colaborar comigo
+- Abra uma issue nos meus repositórios  
+- Sugira melhorias via pull request  
+- Entre em contato para projetos colaborativos  
+
